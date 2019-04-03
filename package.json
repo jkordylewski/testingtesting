@@ -1,0 +1,14 @@
+{
+  "name": "testingtesttest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sketch.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Jan Kordylewski",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.7.0"
+  }
+}
