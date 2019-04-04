@@ -9,5 +9,5 @@ test('blah', () => {
 });
 
 test('blue', () => {
-  expect(1).toBe(10);
+  expect(2).toBe(10);
 });
